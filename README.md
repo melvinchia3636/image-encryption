@@ -1,5 +1,5 @@
 # image-encryption
-Encrypt your image! Protect your personal image with this small project =)\
+Encrypt your image!=D\
 Feel free to make any changes!\
 This is still in beta version so more bug fixes and more stuff will be added soon! =D
 
