@@ -1,6 +1,7 @@
 # image-encryption
-Encrypt your image! Protect your personal image with this small project =)
-Feel free to make any changes!
+Encrypt your image! Protect your personal image with this small project =)\
+Feel free to make any changes!\
+This is still in beta version so more bug fixes and more stuff will be added soon! =D
 
 to import the module to your project:
 ```
@@ -19,7 +20,7 @@ decrypt(inputcodefilename, inputkeyfilename, outputimagefilename)
 
 **encrypt** the image required you to give 3 parameters, which are the imagefilename, outputcodefilename, and outputkeyfilename.
   - **imagefilename**: the image file that you want to encrypt, can be any type of image (eg. jpg, png, etc.)
-  - **outputcodefilenam**e: the output code file (this code doesn't mean the code we wrote usually, it means something like secret code). This file contain the most important things of the image, which is the crazy amount of numbers
+  - **outputcodefilename**: the output code file (this code doesn't mean the code we wrote usually, it means something like secret code). This file contain the most important things of the image, which is the crazy amount of numbers
   - **outputkeyfilename**: the output key file (don't throw this because the image won't be decrypted without this file)
   
 **decrypt** the image required you to give 3 parameters, which are the inputcodefilename, inputkeyfilename, and outputimagefilename.
